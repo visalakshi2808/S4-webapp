@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title> admin page </title>
+  </head>
+  <body>
+    <h1> welcome to admin page </h1>
+    <p>then admin maintains the whole resposibility of webapplication</p>
+  </body>
+</html>
